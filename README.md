@@ -59,7 +59,7 @@ Execute os testes automatizados:
 npm test
 ```
 
-O projeto possui 43 testes automatizados cobrindo os principais fluxos da aplicação.
+O projeto possui 68 testes automatizados cobrindo os principais fluxos da aplicação.
 
 ## Como usar a API
 

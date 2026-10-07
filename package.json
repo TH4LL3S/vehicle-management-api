@@ -1,0 +1,27 @@
+{
+  "name": "seidorteste",
+  "version": "1.0.0",
+  "description": "REST API for company vehicle usage management",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "jest",
+    "supertest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.3.1"
+  }
+}
